@@ -152,6 +152,16 @@
   * dependencies
     * @opentelemetry/instrumentation-aws-sdk bumped from ^0.38.0 to ^0.38.1
 
+## [0.46.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.46.0...auto-instrumentations-node-v0.46.1) (2024-05-07)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-express bumped from ^0.38.0 to ^0.39.0
+    * @opentelemetry/resource-detector-aws bumped from ^1.4.2 to ^1.5.0
+
 ## [0.46.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.45.0...auto-instrumentations-node-v0.46.0) (2024-05-02)
 
 
