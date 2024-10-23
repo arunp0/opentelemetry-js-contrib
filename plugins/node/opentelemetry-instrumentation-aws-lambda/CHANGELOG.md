@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.42.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-aws-lambda-v0.41.1...instrumentation-aws-lambda-v0.42.0) (2024-06-06)
+
+
+### Features
+
+* update otel core dependencies ([#2257](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/2257)) ([71c15d5](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/71c15d597276773c19c16c1117b8d151892e5366))
+
+## [0.41.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-aws-lambda-v0.41.0...instrumentation-aws-lambda-v0.41.1) (2024-05-15)
+
+
+### Bug Fixes
+
+* **aws-lambda:** update semconv package and readme ([#2181](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/2181)) ([b432929](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/b432929f4b5682e7879c50682547cea25790c588))
+
 ## [0.41.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-aws-lambda-v0.40.0...instrumentation-aws-lambda-v0.41.0) (2024-04-25)
 
 
